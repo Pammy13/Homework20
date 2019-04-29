@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bc25206-b2a9-46fe-9ef2-ad6c9462b299" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework20.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework20/HigherFunctionHW20.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HigherFunctionHW20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HigherFunctionHW20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HigherFunctionHW20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework4" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HomeworkBAD14" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeworkBAD14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tasker/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tasker/.idea/vcs.xml" afterDir="false" />
@@ -45,10 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HigherFunctionHW20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="87" lean-forward="true" selection-start-line="4" selection-start-column="87" selection-end-line="4" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -105,6 +97,27 @@
             </path>
             <path>
               <item name="Homework20" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework20" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homework20" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework20" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="dmacc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homework20" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework20" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="dmacc" type="462c0819:PsiDirectoryNode" />
+              <item name="codedsm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homework20" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -116,7 +129,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556497677196" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556497781013" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -153,7 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1556230516135</updated>
       <workItem from="1556230531147" duration="7508000" />
-      <workItem from="1556325722082" duration="14536000" />
+      <workItem from="1556325722082" duration="14791000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1556496959119</created>
@@ -166,13 +179,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22044000" />
+    <option name="totallyTimeSpent" value="22299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1608" y="-217" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18573265" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19215938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -181,15 +194,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33378196" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33378196" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32974428" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.24495289" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -208,7 +221,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second time" />
+    <option name="LAST_COMMIT_MESSAGE" value="second time" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Homework15/src/edu/dmacc/codedsm/Homework15/HW15.java">
@@ -241,10 +255,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HigherFunctionHW20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="87" lean-forward="true" selection-start-line="4" selection-start-column="87" selection-end-line="4" selection-end-column="87" />
         </state>
       </provider>
     </entry>
